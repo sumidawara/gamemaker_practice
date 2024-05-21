@@ -1,0 +1,1 @@
+global.gameState = GameState.gameClear;
